@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: DB Krupp's CV
 ---
-# Isaac Newton
+# Daniel Brian Krupp
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
